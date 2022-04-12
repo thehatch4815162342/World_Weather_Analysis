@@ -14,6 +14,22 @@ This includes the following:
 
 ## Results
 
-![alt text](?raw=true) 
+### City DataFrame Populated from a Randomly Generated List of Latitudes and Longitudes
+![alt text](https://github.com/thehatch4815162342/World_Weather_Analysis/blob/main/Images/city_df.png?raw=true) 
+
+### Request User Input
+![alt text](https://github.com/thehatch4815162342/World_Weather_Analysis/blob/main/Images/user_input.png?raw=true) 
+
+### New City DataFrame Filtered On User Input
+![alt text](https://github.com/thehatch4815162342/World_Weather_Analysis/blob/main/Images/city_df_based_on_user_input.png?raw=true) 
+
+### Google Map of Cities with Markers
+![alt text](https://github.com/thehatch4815162342/World_Weather_Analysis/blob/main/Images/cities.png?raw=true) 
+
+### User Requested Cities
+![alt text](https://github.com/thehatch4815162342/World_Weather_Analysis/blob/main/Images/four_cities.png?raw=true) 
+
+### Generate Travel Route
+![alt text](https://github.com/thehatch4815162342/World_Weather_Analysis/blob/main/Images/route.png?raw=true) 
  
 
