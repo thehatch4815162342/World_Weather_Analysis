@@ -1,6 +1,12 @@
 # World_Weather_Analysis
 
 ## Project Overview
+The PlanMyTrip app is looking to add several new features. 
+
+This includes the following:
+ - Weather description added to the weather data
+ - Input statements added for users to be able to filter the data based on their weather preferences
+ - Create a travel route between four cities (based on the user's input) by using Google Maps Direction API
 
 ## Resources
 - API: OpenWeatherMap, gmaps
@@ -8,6 +14,6 @@
 
 ## Results
 
-![alt text](https://github.com/thehatch4815162342/surfs_up/blob/main/images/June%20Temperatures.png?raw=true) 
+![alt text](?raw=true) 
  
 
